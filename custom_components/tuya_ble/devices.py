@@ -282,6 +282,9 @@ devices_database: dict[str, TuyaBLECategoryInfo] = {
             "ojzlzzsw": TuyaBLEProductInfo(  # device product_id
                 name="Soil moisture sensor",
             ),
+            "zqeaw7pi": TuyaBLEProductInfo(  # device product_id
+                name="BTH01Y-BLE温湿度传感器",
+            ),
         },
     ),
     "znhsb": TuyaBLECategoryInfo(
